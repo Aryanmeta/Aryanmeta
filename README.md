@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋🌎, I'm Aryan Zarei</h1>
-<h3 align="center">A very talented self-taught Python developer 👨‍💻🐍</h3>
+<h3 align="center">A talented self-taught Python developer 👨‍💻🐍</h3>
 <h3 align="center">Who also loves Back-End developer ⛅💻</h3>
 <h3 align="center">and UI,UX designer 💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
@@ -35,9 +35,9 @@
 </div>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanmeta&show_icons=true&locale=en&layout=compact" alt="Aryanmeta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryanmeta&show_icons=true&locale=en" alt="Aryanmeta" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanmeta&" alt="Aryanmeta" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanmeta&show_icons=true&locale=en&layout=compact" alt="Aryanmeta" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryanmeta&show_icons=true&locale=en" alt="Aryanmeta" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanmeta&" alt="Aryanmeta" /></p>
 </div>
 
 <img align="left" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
