@@ -18,11 +18,11 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/aryan-zarei-آریان-زارعی-911355204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-zarei-آریان-زارعی-911355204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-zarei-%D8%A2%D8%B1%DB%8C%D8%A7%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9%DB%8C-911355204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-zarei-%D8%A2%D8%B1%DB%8C%D8%A7%D9%86-%D8%B2%D8%A7%D8%B1%D8%B9%DB%8C-911355204/" height="30" width="40" /></a>
 
-<a href="stackoverflow.com/users/18241870/aryan-zarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/18241870/aryan-zarei" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18241870/aryan-zarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18241870/aryan-zarei" height="30" width="40" /></a>
 
-<a href="instagram.com/aryan.zarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/aryan.zarei" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aryan.zarei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aryan.zarei/" height="30" width="40" /></a>
 
 </p>
 </div>
