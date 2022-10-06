@@ -38,7 +38,6 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmeta&layout=compact" https://github.com/Aryanmeta/github-readme-stats alt="Aryanmeta"/></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryanmeta&show_icons=true&theme=radical" alt="Aryanmeta"/></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanmeta&theme=radical" alt="Aryanmeta" (https://git.io/streak-stats) /></p>
-  <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16" alt="Aryanmeta"/>
 </div>
 
 <img align="left" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
