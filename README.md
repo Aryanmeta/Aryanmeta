@@ -36,8 +36,8 @@
 
 <div>
   | <a href="https://github.com/Aryanmeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryanmeta&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Aryanmeta github stats" /></a> | <br><br>
-  | <a href="https://github.com/Aryanmeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmeta&layout=compact&theme=radical&hide_border=true" /></a> |<br><br>
   <p>| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanmeta&theme=radical&hide_border=true" alt="Aryanmeta" (https://git.io/streak-stats) /> |</p>
+  | <a href="https://github.com/Aryanmeta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanmeta&layout=compact&theme=radical&hide_border=true" /></a> |<br><br>
   <p>| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Aryanmeta&theme=radical&hide" alt="Aryanmeta" (https://github.com/ryo-ma/github-profile-trophy) /> |</p>
 </div>
 
