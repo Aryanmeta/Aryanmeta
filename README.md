@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Back-End Developer| UI & UX Designer | Graphic Designer**
 
-- 📫 How to reach me **aryan2020@gmail.com**
+- 📫 How to reach me **aryanmetaa@gmail.com**
 
 <div>
 <h3 align="left">Connect with me:</h3>
